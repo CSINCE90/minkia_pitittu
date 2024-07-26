@@ -1,0 +1,11 @@
+1. Creare i Repository
+
+I repository sono responsabili della comunicazione con il database. In Spring Data JPA, puoi creare interfacce che estendono JpaRepository o CrudRepository.
+
+Esempio:
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+    // Puoi aggiungere metodi di query personalizzati qui
+}
