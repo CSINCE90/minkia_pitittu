@@ -1,6 +1,6 @@
 # 🍔 Minkia Pitittu
 
-**Minkia Pitittu** è una **web app di food delivery** sviluppata in Java con Spring Boot per la gestione di ristoranti, menù, ordini e utenti. Il progetto simula le principali funzionalità di una piattaforma di consegna pasti, con particolare attenzione alla struttura modulare del backend e alla persistenza dei dati.
+**Minkia Pitittu** è una **web app di food delivery** di street food palermitano sviluppata in Java con Spring Boot per la gestione di ristoranti, menù, ordini e utenti. Il progetto simula le principali funzionalità di una piattaforma di consegna pasti, con particolare attenzione alla struttura modulare del backend e alla persistenza dei dati.
 
 ---
 
