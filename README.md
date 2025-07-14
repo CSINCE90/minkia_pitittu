@@ -9,7 +9,7 @@
 - **Backend:** Java 21, Spring Boot
 - **Persistenza:** Spring Data JPA, MySQL
 - **Architettura:** RESTful API
-- **Sicurezza:** (da integrare – JWT/Basic Auth)
+- **Sicurezza:** Spring Security con autenticazione JWT
 - **Testing e Tools:** Postman, Git, GitHub
 
 ---
